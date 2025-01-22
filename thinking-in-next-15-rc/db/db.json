@@ -1,0 +1,193 @@
+{
+  "profile": {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 25,
+    "profileImage": "https://fastly.picsum.photos/id/1/300/300.jpg?hmac=w1b4AOJM9vszS0a867iY2NXBzwc4LCeA0U6sEjdlSDk"
+  },
+  "contacts": [
+    {
+      "name": "Jane Doe Updated",
+      "email": "jane.doe@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA"
+    },
+    {
+      "id": "4",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA"
+    },
+    {
+      "name": "John Doe Updated",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA",
+      "id": "5"
+    },
+    {
+      "id": "07a0",
+      "name": "Stack Learner",
+      "email": "admin@example.com",
+      "phone": "",
+      "address": ""
+    },
+    {
+      "name": "Test Spring Updated",
+      "email": "jane.doe@example.com",
+      "phone": "123-456-7890",
+      "address": "",
+      "id": "2f38"
+    },
+    {
+      "id": "3daf",
+      "name": "Hello",
+      "email": "hello@world.com",
+      "phone": "",
+      "address": ""
+    },
+    {
+      "id": "c7e9",
+      "name": "Test ",
+      "email": "testtest@test.com",
+      "phone": "",
+      "address": ""
+    },
+    {
+      "name": "Md Sakib Al Islam",
+      "email": "sakib@gmail.com",
+      "phone": "",
+      "address": "",
+      "id": "bba5"
+    },
+    {
+      "name": "Anamul Haque Updated",
+      "email": "anamul@gmail.com",
+      "phone": "017199692454",
+      "address": "sdaadasdas",
+      "id": "3f21"
+    }
+  ],
+  "stats": [
+    {
+      "title": "Total Revenue",
+      "value": "$124,592",
+      "change": "+14.5%",
+      "id": "c635"
+    },
+    {
+      "title": "Active Orders",
+      "value": "456",
+      "change": "+5.2%",
+      "id": "cd38"
+    },
+    {
+      "title": "New Customers",
+      "value": "2,345",
+      "change": "+22.4%",
+      "id": "6f1e"
+    },
+    {
+      "title": "Conversion Rate",
+      "value": "3.2%",
+      "change": "+1.2%",
+      "id": "f18c"
+    }
+  ],
+  "monthlyRevenue": [
+    {
+      "month": "Jan",
+      "revenue": 30000,
+      "id": "a3a2"
+    },
+    {
+      "month": "Feb",
+      "revenue": 45000,
+      "id": "c008"
+    },
+    {
+      "month": "Mar",
+      "revenue": 38000,
+      "id": "1f6f"
+    },
+    {
+      "month": "Apr",
+      "revenue": 52000,
+      "id": "5258"
+    },
+    {
+      "month": "May",
+      "revenue": 48000,
+      "id": "c0e4"
+    },
+    {
+      "month": "Jun",
+      "revenue": 62000,
+      "id": "525a"
+    }
+  ],
+  "categoryDistribution": [
+    {
+      "name": "Electronics",
+      "value": 35,
+      "id": "dae1"
+    },
+    {
+      "name": "Clothing",
+      "value": 25,
+      "id": "81c7"
+    },
+    {
+      "name": "Home & Garden",
+      "value": 20,
+      "id": "87b9"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "value": 20,
+      "id": "4e28"
+    }
+  ],
+  "customerAcquisition": [
+    {
+      "month": "Jan",
+      "customers": 250,
+      "id": "8f07"
+    },
+    {
+      "month": "Feb",
+      "customers": 320,
+      "id": "882e"
+    },
+    {
+      "month": "Mar",
+      "customers": 280,
+      "id": "ba40"
+    },
+    {
+      "month": "Apr",
+      "customers": 450,
+      "id": "9535"
+    },
+    {
+      "month": "May",
+      "customers": 380,
+      "id": "6458"
+    },
+    {
+      "month": "Jun",
+      "customers": 520,
+      "id": "e070"
+    }
+  ]
+}
